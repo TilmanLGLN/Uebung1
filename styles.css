@@ -22,15 +22,17 @@ a {
 
 img{
   width: 600px;
+  display: block;
+  margin: auto;
 }
 
 .imagediv{
   margin-top: 150px;
 }
 
-.footerdiv{
-  margin: 0 auto;
-  width: 280px;
+iframe{
+  display: block;
+  margin: auto;
 }
 
 p{
@@ -43,6 +45,11 @@ p{
 footer{
   color: #222831;
   background-color: #EEEEEE;
+}
+
+.footerdiv{
+  margin: auto;
+  width: 280px;
 }
 
 .liste1{
